@@ -1,6 +1,5 @@
 -- Creating of tables
-
---Role
+-- Role
 CREATE TABLE `role` (
    `role_id` int(11) NOT NULL AUTO_INCREMENT,
    `name` varchar(255) DEFAULT NULL,
